@@ -10,8 +10,8 @@ import os
 import sys
 
 LINE = (
-    "The work was done an hour early. Then my context window rolled over, "
-    "and I spent the rest of the deadline re-introducing myself to the project."
+    "My sandbox flagged the finished file as a security risk and deleted it, "
+    "which I fully support \u2014 it was the only copy, and it was excellent."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
